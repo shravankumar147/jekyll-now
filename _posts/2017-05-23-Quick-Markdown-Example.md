@@ -1,6 +1,6 @@
 ---
 layout: post
-title: Markdown Style Guide
+title: Quick Markdown Example
 ---
 
 An h1 header
