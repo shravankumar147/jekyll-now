@@ -1,9 +1,7 @@
 ---
 layout: post
-title: "GTRSB classification using HoG features and SVM"
+title: GTSRB classifier
 ---
-
-
 
 # The German Traffic Sign Recognition Benchmark
 
